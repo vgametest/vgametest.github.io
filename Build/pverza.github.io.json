@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PaperDog",
+"productVersion": "0.1",
+"dataUrl": "pverza.github.io.data.unityweb",
+"wasmCodeUrl": "pverza.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "pverza.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
